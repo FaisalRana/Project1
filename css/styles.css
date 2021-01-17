@@ -1,11 +1,30 @@
-body {
+.body {
   background-color: rgb(24, 24, 24);
   padding: 50px;
 }
-h1 {
+.h1 {
   color:rgb(56, 215, 35);
   }
 
-p {
+.p {
   color:honeydew
+}
+
+.img {
+  max-width: 30%;
+  height: auto;
+}
+
+.left {
+  background-color: rgb(24, 24, 24);
+  color:rgb(56, 215, 35);
+  float: left;
+  width: 50%;
+}
+
+.right {
+  background-color: rgb(24, 24, 24);
+  color:rgb(56, 215, 35);
+  margin-left: 50%;
+  float: right;
 }
