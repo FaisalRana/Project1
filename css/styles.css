@@ -1,33 +1,53 @@
 body {
   background-color: rgb(13,2,8);
   padding: 50px;
+  font-family: 'Courier New', Courier, monospace
 }
 h1 {
-  color: rgb(124, 133, 63)
+  color: rgb(124, 133, 63);
+  font-family: 'Courier New', Courier, monospace
    }
 
 h2 {
     color:rgb(255, 255, 39);
+    font-family: 'Courier New', Courier, monospace
     }
 
 ul {
   color:rgb(169,169,169);
+  font-family: 'Courier New', Courier, monospace
 }    
 p {
   color:rgb(255, 255, 255);
+  font-family: 'Courier New', Courier, monospace
+}
+
+li {
+  color:rgb(169,169,169);
+  font-family: 'Courier New', Courier, monospace
 }
 
 img {
-  max-width: 30%;
+  max-width: 25%;
   height: auto;
   display: block;
+  padding-left: 30px;
+  float: auto;
 }
 
+a { 
+  text-decoration: none; 
+  font-family: 'Courier New', Courier, monospace
+}
 
 .left {
   background-color: rgb(24, 24, 24)
   color: rgb(0, 255, 65);
   float: left;
   width: 50%;
+  font-family: 'Courier New', Courier, monospace
 }
 
+.demo {
+  
+}
