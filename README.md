@@ -26,7 +26,8 @@ _A webpage built to showcase the biographical information of Faisal Rana, as wel
 
 ## Known Bugs
 
-_Content gets scrunched when making window smaller.  Browser support not tested.  
+_Content gets scrunched when making window smaller.  Browser support not tested.
+some of my pages arent live yet on gh pages
 
 ## Support and contact details
 
