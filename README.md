@@ -19,7 +19,7 @@ _A webpage built to showcase the biographical information of Faisal Rana, as wel
 * _3. Right click on 'index.html' and select 'Open with Live Server' to view page in your favorite web browser._
 * _Make sure you have Live Server installed in VS Code https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer_
 
-* _To view website via GitHub Pages, access the link through 'https://faisalrana.github.io/project1/'_
+* _To view website via GitHub Pages, access the link through 'https://faisalrana.github.io/Project1/'_
 
 
 
