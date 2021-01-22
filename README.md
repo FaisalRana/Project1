@@ -31,7 +31,7 @@ some of my pages arent live yet on gh pages
 
 ## Support and contact details
 
-_For support, contact Saoud Rana <work.anar@gmail.com>_
+_For support, contact Faisal Rana <work.anar@gmail.com>_
 
 ## Technologies Used
 
